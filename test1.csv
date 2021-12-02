@@ -1,165 +1,1028 @@
-,Athlone Institute of Technology
-0,AL801
-1,Software Design with Virtual Reality and Gaming
-2,304
-3,328
-4,AL802
-5,Software Design with Cloud Computing
-6,301
-7,306
-8,AL803
-9,Software Design with Mobile Apps and Connected Devices
-10,309
-11,337
-12,AL805
-13,Network Management and Cloud Infrastructure
-14,329
-15,442
-16,AL810
-17,Quantity Surveying
-18,307
-19,349
-20,AL820
-21,Mechanical and Polymer Engineering
-22,300
-23,358
-24,AL830
-25,General Nursing
-26,410
-27,429
-28,AL832
-29,Psychiatric Nursing
-30,387
-31,403
-32,AL836
-33,Nutrition and Health Science
-34,352
-35,383
-36,AL837
-37,Sports Science with Exercise Physiology
-38,351
-39,392
-40,AL838
-41,Biotechnology
-42,302
-43,372
-44,AL839
-45,Microbiology
-46,322
-47,371
-48,AL840
-49,Pharmaceutical Sciences
-50,328
-51,411
-52,AL841
-53,Athletic and Rehabilitation Therapy
-54,423
-55,430
-56,AL842
-57,Bioveterinary Science
-58,310
-59,366
-60,AL843
-61,Physical Activity and Health Science
-62,310
-63,330
-64,AL850
-65,Business
-66,307
-67,356
-68,AL851
-69,Business and Law
-70,301
-71,341
-72,AL852
-73,Accounting (with optional placement)
-74,290
-75,346
-76,AL853
-77,Accounting and Law
-78,305
-79,320
-80,AL855
-81,Hospitality Management (with International placement)
-82,312
-83,357
-84,AL857
-85,Digital Marketing
-86,300
-87,360
-88,AL860
-89,Social Care Practice
-90,309
-91,338
-92,AL861
-93,Animation and Illustration (portfolio)
-94,#615
-95,899
-96,AL863
-97,Graphic and Digital Design (portfolio)
-98,#703
-99,898
-100,AL864
-101,Early Years Care and Education
-102,307
-103,348
-104,AL870
-105,Applied Psychology
-106,409
-107,445
-109,CW018
-110,"Business (options, Wexford)"
-111,327
-112,349
-113,CW028
-114,Early Childhood Education and Care (Wexford)
-115,252
-116,308
-117,CW038
-118,"Art (portfolio, Wexford)"
-119,#700
-120,700
-121,CW058
-122,Tourism and Event Management (Wexford)
-123,252
-124,262
-125,CW068
-126,Applied Social Studies - Professional Social Care (Wexford)
-127,251
-128,280
-129,CW078
-130,Sustainable Farm Management and Agribusiness (Wexford)
-131,266
-132,320
-133,CW088
-134,Visual Communications and Design (Wexford)
-135,309
-136,345
-137,CW108
-138,Science (options)
-139,261
-140,326
-141,CW128
-142,Brewing and Distilling
-143,271
-144,298
-145,CW178
-146,Sport Science (options)
-147,399
-148,424
-149,CW188
-150,Sport Rehabilitation and Athletic Therapy
-151,454
-152,473
-153,CW208
-154,Computer Games Development
-155,281
-156,338
-157,CW238
-158,Software Development
-159,300
-160,343
-161,CW248
-162,Information Technology Management
-163,307
-164,357
+,code,institution
+0,AC120,American College
+1,AC137,American College
+2,AD101,National College of Art and Design
+3,AD102,National College of Art and Design
+4,AD103,National College of Art and Design
+5,AD202,National College of Art and Design
+6,AD204,National College of Art and Design
+7,AD211,National College of Art and Design
+8,AD212,National College of Art and Design
+9,AD215,National College of Art and Design
+10,AD217,National College of Art and Design
+11,AD222,National College of Art and Design
+12,AL801,Athlone Institute of Technology
+13,AL802,Athlone Institute of Technology
+14,AL803,Athlone Institute of Technology
+15,AL805,Athlone Institute of Technology
+16,AL810,Athlone Institute of Technology
+17,AL811,Athlone Institute of Technology
+18,AL820,Athlone Institute of Technology
+19,AL830,Athlone Institute of Technology
+20,AL832,Athlone Institute of Technology
+21,AL836,Athlone Institute of Technology
+22,AL837,Athlone Institute of Technology
+23,AL838,Athlone Institute of Technology
+24,AL839,Athlone Institute of Technology
+25,AL840,Athlone Institute of Technology
+26,AL841,Athlone Institute of Technology
+27,AL842,Athlone Institute of Technology
+28,AL843,Athlone Institute of Technology
+29,AL850,Athlone Institute of Technology
+30,AL851,Athlone Institute of Technology
+31,AL852,Athlone Institute of Technology
+32,AL854,Athlone Institute of Technology
+33,AL855,Athlone Institute of Technology
+34,AL857,Athlone Institute of Technology
+35,AL860,Athlone Institute of Technology
+36,AL861,Athlone Institute of Technology
+37,AL863,Athlone Institute of Technology
+38,AL864,Athlone Institute of Technology
+39,AL870,Athlone Institute of Technology
+40,AS001,St. Angela`s College
+41,AS002,St. Angela`s College
+42,AS003,St. Angela`s College
+43,AS051,St. Angela`s College
+44,AS054,St. Angela`s College
+45,AS110,St. Angela`s College
+46,AS130,St. Angela`s College
+47,CI110,Irish College of Humanities & Applied Sciences
+48,CI111,Irish College of Humanities & Applied Sciences
+49,CI112,Irish College of Humanities & Applied Sciences
+50,CK101,University College Cork (NUI)
+51,CK102,University College Cork (NUI)
+52,CK104,University College Cork (NUI)
+53,CK105,University College Cork (NUI)
+54,CK107,University College Cork (NUI)
+55,CK108,University College Cork (NUI)
+56,CK109,University College Cork (NUI)
+57,CK110,University College Cork (NUI)
+58,CK111,University College Cork (NUI)
+59,CK112,University College Cork (NUI)
+60,CK113,University College Cork (NUI)
+61,CK114,University College Cork (NUI)
+62,CK115,University College Cork (NUI)
+63,CK118,University College Cork (NUI)
+64,CK120,University College Cork (NUI)
+65,CK121,University College Cork (NUI)
+66,CK122,University College Cork (NUI)
+67,CK123,University College Cork (NUI)
+68,CK124,University College Cork (NUI)
+69,CK125,University College Cork (NUI)
+70,CK201,University College Cork (NUI)
+71,CK202,University College Cork (NUI)
+72,CK203,University College Cork (NUI)
+73,CK204,University College Cork (NUI)
+74,CK205,University College Cork (NUI)
+75,CK206,University College Cork (NUI)
+76,CK207,University College Cork (NUI)
+77,CK208,University College Cork (NUI)
+78,CK209,University College Cork (NUI)
+79,CK211,University College Cork (NUI)
+80,CK212,University College Cork (NUI)
+81,CK213,University College Cork (NUI)
+82,CK214,University College Cork (NUI)
+83,CK301,University College Cork (NUI)
+84,CK302,University College Cork (NUI)
+85,CK304,University College Cork (NUI)
+86,CK307,University College Cork (NUI)
+87,CK401,University College Cork (NUI)
+88,CK402,University College Cork (NUI)
+89,CK404,University College Cork (NUI)
+90,CK405,University College Cork (NUI)
+91,CK406,University College Cork (NUI)
+92,CK407,University College Cork (NUI)
+93,CK408,University College Cork (NUI)
+94,CK409,University College Cork (NUI)
+95,CK411,University College Cork (NUI)
+96,CK412,University College Cork (NUI)
+97,CK504,University College Cork (NUI)
+98,CK505,University College Cork (NUI)
+99,CK600,University College Cork (NUI)
+100,CK606,University College Cork (NUI)
+101,CK701,University College Cork (NUI)
+102,CK702,University College Cork (NUI)
+103,CK703,University College Cork (NUI)
+104,CK704,University College Cork (NUI)
+105,CK705,University College Cork (NUI)
+106,CK706,University College Cork (NUI)
+107,CK707,University College Cork (NUI)
+108,CK710,University College Cork (NUI)
+109,CK712,University College Cork (NUI)
+110,CK720,University College Cork (NUI)
+111,CK730,University College Cork (NUI)
+112,CK740,University College Cork (NUI)
+113,CK791,University College Cork (NUI)
+114,CM001,Marino Institute of Education
+115,CM002,Marino Institute of Education
+116,CM003,Marino Institute of Education
+117,CM004,Marino Institute of Education
+118,CM010,Marino Institute of Education
+119,CM020,Marino Institute of Education
+120,CR105,Cork Institute of Technology
+121,CR106,Cork Institute of Technology
+122,CR108,Cork Institute of Technology
+123,CR109,Cork Institute of Technology
+124,CR110,Cork Institute of Technology
+125,CR112,Cork Institute of Technology
+126,CR116,Cork Institute of Technology
+127,CR121,Cork Institute of Technology
+128,CR125,Cork Institute of Technology
+129,CR126,Cork Institute of Technology
+130,CR127,Cork Institute of Technology
+131,CR128,Cork Institute of Technology
+132,CR129,Cork Institute of Technology
+133,CR130,Cork Institute of Technology
+134,CR150,Cork Institute of Technology
+135,CR210,Cork Institute of Technology
+136,CR220,Cork Institute of Technology
+137,CR225,Cork Institute of Technology
+138,CR305,Cork Institute of Technology
+139,CR310,Cork Institute of Technology
+140,CR320,Cork Institute of Technology
+141,CR325,Cork Institute of Technology
+142,CR333,Cork Institute of Technology
+143,CR335,Cork Institute of Technology
+144,CR340,Cork Institute of Technology
+145,CR360,Cork Institute of Technology
+146,CR365,Cork Institute of Technology
+147,CR370,Cork Institute of Technology
+148,CR400,Cork Institute of Technology
+149,CR420,Cork Institute of Technology
+150,CR425,Cork Institute of Technology
+151,CR430,Cork Institute of Technology
+152,CR440,Cork Institute of Technology
+153,CR500,Cork Institute of Technology
+154,CR510,Cork Institute of Technology
+155,CR520,Cork Institute of Technology
+156,CR560,Cork Institute of Technology
+157,CR565,Cork Institute of Technology
+158,CR570,Cork Institute of Technology
+159,CR572,Cork Institute of Technology
+160,CR580,Cork Institute of Technology
+161,CR590,Cork Institute of Technology
+162,CR600,Cork Institute of Technology
+163,CR660,Cork Institute of Technology
+164,CR700,Cork Institute of Technology
+165,CT125,CCT College Dublin
+166,CT325,CCT College Dublin
+167,CW018,"Institute of Technology, Carlow"
+168,CW028,"Institute of Technology, Carlow"
+169,CW038,"Institute of Technology, Carlow"
+170,CW058,"Institute of Technology, Carlow"
+171,CW068,"Institute of Technology, Carlow"
+172,CW078,"Institute of Technology, Carlow"
+173,CW088,"Institute of Technology, Carlow"
+174,CW108,"Institute of Technology, Carlow"
+175,CW128,"Institute of Technology, Carlow"
+176,CW138,"Institute of Technology, Carlow"
+177,CW148,"Institute of Technology, Carlow"
+178,CW188,"Institute of Technology, Carlow"
+179,CW208,"Institute of Technology, Carlow"
+180,CW238,"Institute of Technology, Carlow"
+181,CW248,"Institute of Technology, Carlow"
+182,CW258,"Institute of Technology, Carlow"
+183,CW268,"Institute of Technology, Carlow"
+184,CW438,"Institute of Technology, Carlow"
+185,CW468,"Institute of Technology, Carlow"
+186,CW478,"Institute of Technology, Carlow"
+187,CW548,"Institute of Technology, Carlow"
+188,CW558,"Institute of Technology, Carlow"
+189,CW568,"Institute of Technology, Carlow"
+190,CW578,"Institute of Technology, Carlow"
+191,CW708,"Institute of Technology, Carlow"
+192,CW728,"Institute of Technology, Carlow"
+193,CW748,"Institute of Technology, Carlow"
+194,CW758,"Institute of Technology, Carlow"
+195,CW808,"Institute of Technology, Carlow"
+196,CW848,"Institute of Technology, Carlow"
+197,CW858,"Institute of Technology, Carlow"
+198,CW908,"Institute of Technology, Carlow"
+199,CW938,"Institute of Technology, Carlow"
+200,CW948,"Institute of Technology, Carlow"
+201,DB500,Dublin Business School
+202,DB501,Dublin Business School
+203,DB502,Dublin Business School
+204,DB503,Dublin Business School
+205,DB504,Dublin Business School
+206,DB510,Dublin Business School
+207,DB512,Dublin Business School
+208,DB514,Dublin Business School
+209,DB515,Dublin Business School
+210,DB516,Dublin Business School
+211,DB517,Dublin Business School
+212,DB521,Dublin Business School
+213,DB524,Dublin Business School
+214,DB526,Dublin Business School
+215,DB527,Dublin Business School
+216,DB531,Dublin Business School
+217,DB562,Dublin Business School
+218,DB566,Dublin Business School
+219,DB567,Dublin Business School
+220,DB568,Dublin Business School
+221,DB569,Dublin Business School
+222,DC001,Dublin City University
+223,DC002,Dublin City University
+224,DC003,Dublin City University
+225,DC004,Dublin City University
+226,DC009,Dublin City University
+227,DC010,Dublin City University
+228,DC011,Dublin City University
+229,DC012,Dublin City University
+230,DC013,Dublin City University
+231,DC014,Dublin City University
+232,DC110,Dublin City University
+233,DC111,Dublin City University
+234,DC112,Dublin City University
+235,DC113,Dublin City University
+236,DC114,Dublin City University
+237,DC115,Dublin City University
+238,DC116,Dublin City University
+239,DC117,Dublin City University
+240,DC118,Dublin City University
+241,DC119,Dublin City University
+242,DC120,Dublin City University
+243,DC121,Dublin City University
+244,DC123,Dublin City University
+245,DC126,Dublin City University
+246,DC127,Dublin City University
+247,DC131,Dublin City University
+248,DC132,Dublin City University
+249,DC133,Dublin City University
+250,DC155,Dublin City University
+251,DC161,Dublin City University
+252,DC162,Dublin City University
+253,DC166,Dublin City University
+254,DC168,Dublin City University
+255,DC175,Dublin City University
+256,DC181,Dublin City University
+257,DC190,Dublin City University
+258,DC193,Dublin City University
+259,DC195,Dublin City University
+260,DC197,Dublin City University
+261,DC200,Dublin City University
+262,DC201,Dublin City University
+263,DC202,Dublin City University
+264,DC203,Dublin City University
+265,DC204,Dublin City University
+266,DC205,Dublin City University
+267,DC206,Dublin City University
+268,DC208,Dublin City University
+269,DC209,Dublin City University
+270,DC215,Dublin City University
+271,DC216,Dublin City University
+272,DC217,Dublin City University
+273,DC218,Dublin City University
+274,DC230,Dublin City University
+275,DC231,Dublin City University
+276,DC232,Dublin City University
+277,DC235,Dublin City University
+278,DC238,Dublin City University
+279,DC239,Dublin City University
+280,DC240,Dublin City University
+281,DC291,Dublin City University
+282,DC292,Dublin City University
+283,DC293,Dublin City University
+284,DC295,Dublin City University
+285,DK810,Dundalk Institute of Technology
+286,DK816,Dundalk Institute of Technology
+287,DK820,Dundalk Institute of Technology
+288,DK821,Dundalk Institute of Technology
+289,DK822,Dundalk Institute of Technology
+290,DK830,Dundalk Institute of Technology
+291,DK831,Dundalk Institute of Technology
+292,DK832,Dundalk Institute of Technology
+293,DK843,Dundalk Institute of Technology
+294,DK844,Dundalk Institute of Technology
+295,DK845,Dundalk Institute of Technology
+296,DK846,Dundalk Institute of Technology
+297,DK850,Dundalk Institute of Technology
+298,DK860,Dundalk Institute of Technology
+299,DK861,Dundalk Institute of Technology
+300,DK862,Dundalk Institute of Technology
+301,DK863,Dundalk Institute of Technology
+302,DK864,Dundalk Institute of Technology
+303,DK865,Dundalk Institute of Technology
+304,DK870,Dundalk Institute of Technology
+305,DK872,Dundalk Institute of Technology
+306,DK874,Dundalk Institute of Technology
+307,DK876,Dundalk Institute of Technology
+308,DK877,Dundalk Institute of Technology
+309,DK880,Dundalk Institute of Technology
+310,DK882,Dundalk Institute of Technology
+311,DK883,Dundalk Institute of Technology
+312,DK884,Dundalk Institute of Technology
+313,DK885,Dundalk Institute of Technology
+314,DK886,Dundalk Institute of Technology
+315,DK887,Dundalk Institute of Technology
+316,DL821,"Dun Laoghaire Institute of Art, Design and Technology"
+317,DL822,"Dun Laoghaire Institute of Art, Design and Technology"
+318,DL823,"Dun Laoghaire Institute of Art, Design and Technology"
+319,DL825,"Dun Laoghaire Institute of Art, Design and Technology"
+320,DL826,"Dun Laoghaire Institute of Art, Design and Technology"
+321,DL827,"Dun Laoghaire Institute of Art, Design and Technology"
+322,DL828,"Dun Laoghaire Institute of Art, Design and Technology"
+323,DL829,"Dun Laoghaire Institute of Art, Design and Technology"
+324,DL830,"Dun Laoghaire Institute of Art, Design and Technology"
+325,DL831,"Dun Laoghaire Institute of Art, Design and Technology"
+326,DL832,"Dun Laoghaire Institute of Art, Design and Technology"
+327,DL833,"Dun Laoghaire Institute of Art, Design and Technology"
+328,DL834,"Dun Laoghaire Institute of Art, Design and Technology"
+329,DL836,"Dun Laoghaire Institute of Art, Design and Technology"
+330,DL837,"Dun Laoghaire Institute of Art, Design and Technology"
+331,DL838,"Dun Laoghaire Institute of Art, Design and Technology"
+332,DL839,"Dun Laoghaire Institute of Art, Design and Technology"
+333,DL840,"Dun Laoghaire Institute of Art, Design and Technology"
+334,DL841,"Dun Laoghaire Institute of Art, Design and Technology"
+335,DN100,University College Dublin (NUI)
+336,DN120,University College Dublin (NUI)
+337,DN130,University College Dublin (NUI)
+338,DN150,University College Dublin (NUI)
+339,DN200,University College Dublin (NUI)
+340,DN201,University College Dublin (NUI)
+341,DN230,University College Dublin (NUI)
+342,DN240,University College Dublin (NUI)
+343,DN250,University College Dublin (NUI)
+344,DN252,University College Dublin (NUI)
+345,DN253,University College Dublin (NUI)
+346,DN261,University College Dublin (NUI)
+347,DN262,University College Dublin (NUI)
+348,DN271,University College Dublin (NUI)
+349,DN272,University College Dublin (NUI)
+350,DN300,University College Dublin (NUI)
+351,DN301,University College Dublin (NUI)
+352,DN310,University College Dublin (NUI)
+353,DN400,University College Dublin (NUI)
+354,DN401,University College Dublin (NUI)
+355,DN410,University College Dublin (NUI)
+356,DN411,University College Dublin (NUI)
+357,DN420,University College Dublin (NUI)
+358,DN425,University College Dublin (NUI)
+359,DN430,University College Dublin (NUI)
+360,DN440,University College Dublin (NUI)
+361,DN450,University College Dublin (NUI)
+362,DN451,University College Dublin (NUI)
+363,DN452,University College Dublin (NUI)
+364,DN453,University College Dublin (NUI)
+365,DN520,University College Dublin (NUI)
+366,DN530,University College Dublin (NUI)
+367,DN541,University College Dublin (NUI)
+368,DN600,University College Dublin (NUI)
+369,DN610,University College Dublin (NUI)
+370,DN650,University College Dublin (NUI)
+371,DN660,University College Dublin (NUI)
+372,DN670,University College Dublin (NUI)
+373,DN700,University College Dublin (NUI)
+374,DN710,University College Dublin (NUI)
+375,DN720,University College Dublin (NUI)
+376,DN750,University College Dublin (NUI)
+377,GA181,Galway-Mayo Institute of Technology
+378,GA182,Galway-Mayo Institute of Technology
+379,GA183,Galway-Mayo Institute of Technology
+380,GA184,Galway-Mayo Institute of Technology
+381,GA185,Galway-Mayo Institute of Technology
+382,GA186,Galway-Mayo Institute of Technology
+383,GA187,Galway-Mayo Institute of Technology
+384,GA281,Galway-Mayo Institute of Technology
+385,GA282,Galway-Mayo Institute of Technology
+386,GA283,Galway-Mayo Institute of Technology
+387,GA284,Galway-Mayo Institute of Technology
+388,GA285,Galway-Mayo Institute of Technology
+389,GA380,Galway-Mayo Institute of Technology
+390,GA381,Galway-Mayo Institute of Technology
+391,GA382,Galway-Mayo Institute of Technology
+392,GA384,Galway-Mayo Institute of Technology
+393,GA480,Galway-Mayo Institute of Technology
+394,GA482,Galway-Mayo Institute of Technology
+395,GA483,Galway-Mayo Institute of Technology
+396,GA484,Galway-Mayo Institute of Technology
+397,GA580,Galway-Mayo Institute of Technology
+398,GA680,Galway-Mayo Institute of Technology
+399,GA681,Galway-Mayo Institute of Technology
+400,GA682,Galway-Mayo Institute of Technology
+401,GA683,Galway-Mayo Institute of Technology
+402,GA684,Galway-Mayo Institute of Technology
+403,GA685,Galway-Mayo Institute of Technology
+404,GA780,Galway-Mayo Institute of Technology
+405,GA781,Galway-Mayo Institute of Technology
+406,GA782,Galway-Mayo Institute of Technology
+407,GA783,Galway-Mayo Institute of Technology
+408,GA784,Galway-Mayo Institute of Technology
+409,GA785,Galway-Mayo Institute of Technology
+410,GA786,Galway-Mayo Institute of Technology
+411,GA787,Galway-Mayo Institute of Technology
+412,GA788,Galway-Mayo Institute of Technology
+413,GA789,Galway-Mayo Institute of Technology
+414,GA790,Galway-Mayo Institute of Technology
+415,GA791,Galway-Mayo Institute of Technology
+416,GA880,Galway-Mayo Institute of Technology
+417,GA882,Galway-Mayo Institute of Technology
+418,GA885,Galway-Mayo Institute of Technology
+419,GA887,Galway-Mayo Institute of Technology
+420,GA889,Galway-Mayo Institute of Technology
+421,GA890,Galway-Mayo Institute of Technology
+422,GA891,Galway-Mayo Institute of Technology
+423,GA980,Galway-Mayo Institute of Technology
+424,GA984,Galway-Mayo Institute of Technology
+425,GC200,Griffith College
+426,GC201,Griffith College
+427,GC230,Griffith College
+428,GC250,Griffith College
+429,GC300,Griffith College
+430,GC301,Griffith College
+431,GC302,Griffith College
+432,GC305,Griffith College
+433,GC400,Griffith College
+434,GC401,Griffith College
+435,GC402,Griffith College
+436,GC403,Griffith College
+437,GC407,Griffith College
+438,GC430,Griffith College
+439,GC450,Griffith College
+440,GC462,Griffith College
+441,GC489,Griffith College
+442,GC494,Griffith College
+443,GY101,"National University of Ireland, Galway"
+444,GY104,"National University of Ireland, Galway"
+445,GY105,"National University of Ireland, Galway"
+446,GY107,"National University of Ireland, Galway"
+447,GY109,"National University of Ireland, Galway"
+448,GY110,"National University of Ireland, Galway"
+449,GY111,"National University of Ireland, Galway"
+450,GY112,"National University of Ireland, Galway"
+451,GY113,"National University of Ireland, Galway"
+452,GY115,"National University of Ireland, Galway"
+453,GY118,"National University of Ireland, Galway"
+454,GY119,"National University of Ireland, Galway"
+455,GY120,"National University of Ireland, Galway"
+456,GY121,"National University of Ireland, Galway"
+457,GY122,"National University of Ireland, Galway"
+458,GY123,"National University of Ireland, Galway"
+459,GY124,"National University of Ireland, Galway"
+460,GY125,"National University of Ireland, Galway"
+461,GY126,"National University of Ireland, Galway"
+462,GY127,"National University of Ireland, Galway"
+463,GY128,"National University of Ireland, Galway"
+464,GY129,"National University of Ireland, Galway"
+465,GY130,"National University of Ireland, Galway"
+466,GY131,"National University of Ireland, Galway"
+467,GY132,"National University of Ireland, Galway"
+468,GY133,"National University of Ireland, Galway"
+469,GY134,"National University of Ireland, Galway"
+470,GY201,"National University of Ireland, Galway"
+471,GY202,"National University of Ireland, Galway"
+472,GY203,"National University of Ireland, Galway"
+473,GY204,"National University of Ireland, Galway"
+474,GY206,"National University of Ireland, Galway"
+475,GY207,"National University of Ireland, Galway"
+476,GY208,"National University of Ireland, Galway"
+477,GY209,"National University of Ireland, Galway"
+478,GY250,"National University of Ireland, Galway"
+479,GY251,"National University of Ireland, Galway"
+480,GY252,"National University of Ireland, Galway"
+481,GY253,"National University of Ireland, Galway"
+482,GY254,"National University of Ireland, Galway"
+483,GY261,"National University of Ireland, Galway"
+484,GY262,"National University of Ireland, Galway"
+485,GY301,"National University of Ireland, Galway"
+486,GY303,"National University of Ireland, Galway"
+487,GY304,"National University of Ireland, Galway"
+488,GY308,"National University of Ireland, Galway"
+489,GY309,"National University of Ireland, Galway"
+490,GY310,"National University of Ireland, Galway"
+491,GY313,"National University of Ireland, Galway"
+492,GY314,"National University of Ireland, Galway"
+493,GY318,"National University of Ireland, Galway"
+494,GY319,"National University of Ireland, Galway"
+495,GY320,"National University of Ireland, Galway"
+496,GY321,"National University of Ireland, Galway"
+497,GY350,"National University of Ireland, Galway"
+498,GY401,"National University of Ireland, Galway"
+499,GY402,"National University of Ireland, Galway"
+500,GY405,"National University of Ireland, Galway"
+501,GY406,"National University of Ireland, Galway"
+502,GY408,"National University of Ireland, Galway"
+503,GY410,"National University of Ireland, Galway"
+504,GY413,"National University of Ireland, Galway"
+505,GY414,"National University of Ireland, Galway"
+506,GY501,"National University of Ireland, Galway"
+507,GY502,"National University of Ireland, Galway"
+508,GY503,"National University of Ireland, Galway"
+509,GY504,"National University of Ireland, Galway"
+510,GY515,"National University of Ireland, Galway"
+511,GY516,"National University of Ireland, Galway"
+512,GY517,"National University of Ireland, Galway"
+513,ID001,ICD Business School
+514,ID002,ICD Business School
+515,LC110,Limerick Institute of Technology
+516,LC114,Limerick Institute of Technology
+517,LC115,Limerick Institute of Technology
+518,LC220,Limerick Institute of Technology
+519,LC223,Limerick Institute of Technology
+520,LC224,Limerick Institute of Technology
+521,LC225,Limerick Institute of Technology
+522,LC226,Limerick Institute of Technology
+523,LC233,Limerick Institute of Technology
+524,LC234,Limerick Institute of Technology
+525,LC236,Limerick Institute of Technology
+526,LC239,Limerick Institute of Technology
+527,LC241,Limerick Institute of Technology
+528,LC242,Limerick Institute of Technology
+529,LC243,Limerick Institute of Technology
+530,LC248,Limerick Institute of Technology
+531,LC252,Limerick Institute of Technology
+532,LC263,Limerick Institute of Technology
+533,LC265,Limerick Institute of Technology
+534,LC266,Limerick Institute of Technology
+535,LC275,Limerick Institute of Technology
+536,LC288,Limerick Institute of Technology
+537,LC289,Limerick Institute of Technology
+538,LC292,Limerick Institute of Technology
+539,LC293,Limerick Institute of Technology
+540,LC294,Limerick Institute of Technology
+541,LC295,Limerick Institute of Technology
+542,LC297,Limerick Institute of Technology
+543,LC320,Limerick Institute of Technology
+544,LC330,Limerick Institute of Technology
+545,LC340,Limerick Institute of Technology
+546,LC362,Limerick Institute of Technology
+547,LC371,Limerick Institute of Technology
+548,LC372,Limerick Institute of Technology
+549,LC374,Limerick Institute of Technology
+550,LC375,Limerick Institute of Technology
+551,LC376,Limerick Institute of Technology
+552,LC380,Limerick Institute of Technology
+553,LC392,Limerick Institute of Technology
+554,LC393,Limerick Institute of Technology
+555,LC401,Limerick Institute of Technology
+556,LC402,Limerick Institute of Technology
+557,LC408,Limerick Institute of Technology
+558,LC414,Limerick Institute of Technology
+559,LC416,Limerick Institute of Technology
+560,LC418,Limerick Institute of Technology
+561,LC422,Limerick Institute of Technology
+562,LC434,Limerick Institute of Technology
+563,LC502,Limerick Institute of Technology
+564,LC517,Limerick Institute of Technology
+565,LC518,Limerick Institute of Technology
+566,LC612,Limerick Institute of Technology
+567,LC613,Limerick Institute of Technology
+568,LM002,University of Limerick
+569,LM020,University of Limerick
+570,LM026,University of Limerick
+571,LM028,University of Limerick
+572,LM029,University of Limerick
+573,LM038,University of Limerick
+574,LM039,University of Limerick
+575,LM040,University of Limerick
+576,LM044,University of Limerick
+577,LM050,University of Limerick
+578,LM056,University of Limerick
+579,LM058,University of Limerick
+580,LM063,University of Limerick
+581,LM068,University of Limerick
+582,LM076,University of Limerick
+583,LM077,University of Limerick
+584,LM082,University of Limerick
+585,LM089,University of Limerick
+586,LM090,University of Limerick
+587,LM091,University of Limerick
+588,LM092,University of Limerick
+589,LM093,University of Limerick
+590,LM094,University of Limerick
+591,LM095,University of Limerick
+592,LM096,University of Limerick
+593,LM097,University of Limerick
+594,LM099,University of Limerick
+595,LM100,University of Limerick
+596,LM101,University of Limerick
+597,LM102,University of Limerick
+598,LM103,University of Limerick
+599,LM115,University of Limerick
+600,LM116,University of Limerick
+601,LM118,University of Limerick
+602,LM121,University of Limerick
+603,LM122,University of Limerick
+604,LM123,University of Limerick
+605,LM124,University of Limerick
+606,LM125,University of Limerick
+607,LM150,University of Limerick
+608,LM152,University of Limerick
+609,LM154,University of Limerick
+610,LM156,University of Limerick
+611,LY108,Letterkenny Institute of Technology
+612,LY118,Letterkenny Institute of Technology
+613,LY208,Letterkenny Institute of Technology
+614,LY228,Letterkenny Institute of Technology
+615,LY408,Letterkenny Institute of Technology
+616,LY508,Letterkenny Institute of Technology
+617,LY518,Letterkenny Institute of Technology
+618,LY528,Letterkenny Institute of Technology
+619,LY608,Letterkenny Institute of Technology
+620,LY618,Letterkenny Institute of Technology
+621,LY708,Letterkenny Institute of Technology
+622,LY748,Letterkenny Institute of Technology
+623,LY818,Letterkenny Institute of Technology
+624,LY828,Letterkenny Institute of Technology
+625,LY908,Letterkenny Institute of Technology
+626,LY918,Letterkenny Institute of Technology
+627,LY928,Letterkenny Institute of Technology
+628,LY968,Letterkenny Institute of Technology
+629,LY978,Letterkenny Institute of Technology
+630,MH001,Maynooth University
+631,MH002,Maynooth University
+632,MH101,Maynooth University
+633,MH103,Maynooth University
+634,MH106,Maynooth University
+635,MH107,Maynooth University
+636,MH109,Maynooth University
+637,MH116,Maynooth University
+638,MH201,Maynooth University
+639,MH202,Maynooth University
+640,MH203,Maynooth University
+641,MH204,Maynooth University
+642,MH206,Maynooth University
+643,MH207,Maynooth University
+644,MH208,Maynooth University
+645,MH209,Maynooth University
+646,MH210,Maynooth University
+647,MH212,Maynooth University
+648,MH304,Maynooth University
+649,MH305,Maynooth University
+650,MH306,Maynooth University
+651,MH401,Maynooth University
+652,MH402,Maynooth University
+653,MH403,Maynooth University
+654,MH404,Maynooth University
+655,MH405,Maynooth University
+656,MH407,Maynooth University
+657,MH411,Maynooth University
+658,MH501,Maynooth University
+659,MH502,Maynooth University
+660,MH601,Maynooth University
+661,MH602,Maynooth University
+662,MH603,Maynooth University
+663,MH801,Maynooth University
+664,MH802,Maynooth University
+665,MH803,Maynooth University
+666,MI001,Mary Immaculate College
+667,MI002,Mary Immaculate College
+668,MI004,Mary Immaculate College
+669,MI005,Mary Immaculate College
+670,MI006,Mary Immaculate College
+671,MI007,Mary Immaculate College
+672,MI008,Mary Immaculate College
+673,MI009,Mary Immaculate College
+674,MI010,Mary Immaculate College
+675,MI011,Mary Immaculate College
+676,MI012,Mary Immaculate College
+677,MI013,Mary Immaculate College
+678,MI014,Mary Immaculate College
+679,MU001,"Pontifical University, St Patrick's College"
+680,MU002,"Pontifical University, St Patrick's College"
+681,NC003,National College of Ireland (NCI)
+682,NC005,National College of Ireland (NCI)
+683,NC009,National College of Ireland (NCI)
+684,NC010,National College of Ireland (NCI)
+685,NC020,National College of Ireland (NCI)
+686,NC022,National College of Ireland (NCI)
+687,NC023,National College of Ireland (NCI)
+688,NM801,St Nicholas Montessori College Ireland
+689,PC405,"Carlow College, St. Patrick`s"
+690,PC410,"Carlow College, St. Patrick`s"
+691,PC411,"Carlow College, St. Patrick`s"
+692,RC001,RCSI University of Medicine & Health Sciences
+693,RC004,RCSI University of Medicine & Health Sciences
+694,RC005,RCSI University of Medicine & Health Sciences
+695,RC101,RCSI University of Medicine & Health Sciences
+696,SG141,"Institute of Technology, Sligo"
+697,SG142,"Institute of Technology, Sligo"
+698,SG144,"Institute of Technology, Sligo"
+699,SG146,"Institute of Technology, Sligo"
+700,SG147,"Institute of Technology, Sligo"
+701,SG148,"Institute of Technology, Sligo"
+702,SG241,"Institute of Technology, Sligo"
+703,SG242,"Institute of Technology, Sligo"
+704,SG243,"Institute of Technology, Sligo"
+705,SG244,"Institute of Technology, Sligo"
+706,SG245,"Institute of Technology, Sligo"
+707,SG246,"Institute of Technology, Sligo"
+708,SG247,"Institute of Technology, Sligo"
+709,SG248,"Institute of Technology, Sligo"
+710,SG249,"Institute of Technology, Sligo"
+711,SG250,"Institute of Technology, Sligo"
+712,SG251,"Institute of Technology, Sligo"
+713,SG252,"Institute of Technology, Sligo"
+714,SG253,"Institute of Technology, Sligo"
+715,SG254,"Institute of Technology, Sligo"
+716,SG342,"Institute of Technology, Sligo"
+717,SG343,"Institute of Technology, Sligo"
+718,SG346,"Institute of Technology, Sligo"
+719,SG347,"Institute of Technology, Sligo"
+720,SG348,"Institute of Technology, Sligo"
+721,SG442,"Institute of Technology, Sligo"
+722,SG443,"Institute of Technology, Sligo"
+723,SG444,"Institute of Technology, Sligo"
+724,SG445,"Institute of Technology, Sligo"
+725,SG447,"Institute of Technology, Sligo"
+726,SG448,"Institute of Technology, Sligo"
+727,SG449,"Institute of Technology, Sligo"
+728,SG450,"Institute of Technology, Sligo"
+729,TL801,"Institute of Technology, Tralee"
+730,TL802,"Institute of Technology, Tralee"
+731,TL810,"Institute of Technology, Tralee"
+732,TL811,"Institute of Technology, Tralee"
+733,TL815,"Institute of Technology, Tralee"
+734,TL823,"Institute of Technology, Tralee"
+735,TL831,"Institute of Technology, Tralee"
+736,TL844,"Institute of Technology, Tralee"
+737,TL845,"Institute of Technology, Tralee"
+738,TL847,"Institute of Technology, Tralee"
+739,TL848,"Institute of Technology, Tralee"
+740,TL851,"Institute of Technology, Tralee"
+741,TL855,"Institute of Technology, Tralee"
+742,TL858,"Institute of Technology, Tralee"
+743,TL871,"Institute of Technology, Tralee"
+744,TL872,"Institute of Technology, Tralee"
+745,TL873,"Institute of Technology, Tralee"
+746,TL880,"Institute of Technology, Tralee"
+747,TL881,"Institute of Technology, Tralee"
+748,TL889,"Institute of Technology, Tralee"
+749,TL890,"Institute of Technology, Tralee"
+750,TL891,"Institute of Technology, Tralee"
+751,TR002,Trinity College Dublin
+752,TR003,Trinity College Dublin
+753,TR004,Trinity College Dublin
+754,TR005,Trinity College Dublin
+755,TR006,Trinity College Dublin
+756,TR007,Trinity College Dublin
+757,TR009,Trinity College Dublin
+758,TR012,Trinity College Dublin
+759,TR015,Trinity College Dublin
+760,TR016,Trinity College Dublin
+761,TR017,Trinity College Dublin
+762,TR018,Trinity College Dublin
+763,TR019,Trinity College Dublin
+764,TR020,Trinity College Dublin
+765,TR021,Trinity College Dublin
+766,TR022,Trinity College Dublin
+767,TR023,Trinity College Dublin
+768,TR024,Trinity College Dublin
+769,TR025,Trinity College Dublin
+770,TR028,Trinity College Dublin
+771,TR029,Trinity College Dublin
+772,TR031,Trinity College Dublin
+773,TR032,Trinity College Dublin
+774,TR033,Trinity College Dublin
+775,TR034,Trinity College Dublin
+776,TR035,Trinity College Dublin
+777,TR038,Trinity College Dublin
+778,TR039,Trinity College Dublin
+779,TR040,Trinity College Dublin
+780,TR041,Trinity College Dublin
+781,TR042,Trinity College Dublin
+782,TR043,Trinity College Dublin
+783,TR051,Trinity College Dublin
+784,TR052,Trinity College Dublin
+785,TR053,Trinity College Dublin
+786,TR054,Trinity College Dublin
+787,TR055,Trinity College Dublin
+788,TR056,Trinity College Dublin
+789,TR060,Trinity College Dublin
+790,TR061,Trinity College Dublin
+791,TR062,Trinity College Dublin
+792,TR063,Trinity College Dublin
+793,TR072,Trinity College Dublin
+794,TR080,Trinity College Dublin
+795,TR081,Trinity College Dublin
+796,TR082,Trinity College Dublin
+797,TR083,Trinity College Dublin
+798,TR084,Trinity College Dublin
+799,TR085,Trinity College Dublin
+800,TR086,Trinity College Dublin
+801,TR087,Trinity College Dublin
+802,TR089,Trinity College Dublin
+803,TR090,Trinity College Dublin
+804,TR091,Trinity College Dublin
+805,TR093,Trinity College Dublin
+806,TR095,Trinity College Dublin
+807,TR097,Trinity College Dublin
+808,TR111,Trinity College Dublin
+809,TR112,Trinity College Dublin
+810,TR113,Trinity College Dublin
+811,TR114,Trinity College Dublin
+812,TR117,Trinity College Dublin
+813,TR166,Trinity College Dublin
+814,TR173,Trinity College Dublin
+815,TR177,Trinity College Dublin
+816,TR179,Trinity College Dublin
+817,TR198,Trinity College Dublin
+818,TR202,Trinity College Dublin
+819,TR207,Trinity College Dublin
+820,TR208,Trinity College Dublin
+821,TR209,Trinity College Dublin
+822,TR212,Trinity College Dublin
+823,TR228,Trinity College Dublin
+824,TR231,Trinity College Dublin
+825,TR233,Trinity College Dublin
+826,TR239,Trinity College Dublin
+827,TR262,Trinity College Dublin
+828,TR263,Trinity College Dublin
+829,TR269,Trinity College Dublin
+830,TR272,Trinity College Dublin
+831,TR276,Trinity College Dublin
+832,TR277,Trinity College Dublin
+833,TR311,Trinity College Dublin
+834,TR312,Trinity College Dublin
+835,TR320,Trinity College Dublin
+836,TR322,Trinity College Dublin
+837,TR323,Trinity College Dublin
+838,TR324,Trinity College Dublin
+839,TR325,Trinity College Dublin
+840,TR326,Trinity College Dublin
+841,TR332,Trinity College Dublin
+842,TR443,Trinity College Dublin
+843,TR447,Trinity College Dublin
+844,TR449,Trinity College Dublin
+845,TR452,Trinity College Dublin
+846,TR454,Trinity College Dublin
+847,TR455,Trinity College Dublin
+848,TR479,Trinity College Dublin
+849,TR547,Trinity College Dublin
+850,TR548,Trinity College Dublin
+851,TR554,Trinity College Dublin
+852,TR563,Trinity College Dublin
+853,TR564,Trinity College Dublin
+854,TR565,Trinity College Dublin
+855,TR597,Trinity College Dublin
+856,TR598,Trinity College Dublin
+857,TR599,Trinity College Dublin
+858,TR629,Trinity College Dublin
+859,TR635,Trinity College Dublin
+860,TR636,Trinity College Dublin
+861,TR638,Trinity College Dublin
+862,TR639,Trinity College Dublin
+863,TR662,Trinity College Dublin
+864,TR663,Trinity College Dublin
+865,TR664,Trinity College Dublin
+866,TR665,Trinity College Dublin
+867,TR666,Trinity College Dublin
+868,TR667,Trinity College Dublin
+869,TR668,Trinity College Dublin
+870,TR669,Trinity College Dublin
+871,TR670,Trinity College Dublin
+872,TR671,Trinity College Dublin
+873,TR672,Trinity College Dublin
+874,TR755,Trinity College Dublin
+875,TR756,Trinity College Dublin
+876,TR911,Trinity College Dublin
+877,TR913,Trinity College Dublin
+878,TU801,Technological University Dublin
+879,TU802,Technological University Dublin
+880,TU803,Technological University Dublin
+881,TU804,Technological University Dublin
+882,TU805,Technological University Dublin
+883,TU806,Technological University Dublin
+884,TU807,Technological University Dublin
+885,TU808,Technological University Dublin
+886,TU809,Technological University Dublin
+887,TU810,Technological University Dublin
+888,TU811,Technological University Dublin
+889,TU812,Technological University Dublin
+890,TU813,Technological University Dublin
+891,TU814,Technological University Dublin
+892,TU831,Technological University Dublin
+893,TU832,Technological University Dublin
+894,TU833,Technological University Dublin
+895,TU834,Technological University Dublin
+896,TU835,Technological University Dublin
+897,TU836,Technological University Dublin
+898,TU837,Technological University Dublin
+899,TU851,Technological University Dublin
+900,TU852,Technological University Dublin
+901,TU854,Technological University Dublin
+902,TU855,Technological University Dublin
+903,TU856,Technological University Dublin
+904,TU857,Technological University Dublin
+905,TU858,Technological University Dublin
+906,TU859,Technological University Dublin
+907,TU860,Technological University Dublin
+908,TU861,Technological University Dublin
+909,TU862,Technological University Dublin
+910,TU863,Technological University Dublin
+911,TU864,Technological University Dublin
+912,TU865,Technological University Dublin
+913,TU866,Technological University Dublin
+914,TU867,Technological University Dublin
+915,TU868,Technological University Dublin
+916,TU869,Technological University Dublin
+917,TU870,Technological University Dublin
+918,TU871,Technological University Dublin
+919,TU872,Technological University Dublin
+920,TU873,Technological University Dublin
+921,TU874,Technological University Dublin
+922,TU875,Technological University Dublin
+923,TU876,Technological University Dublin
+924,TU877,Technological University Dublin
+925,TU878,Technological University Dublin
+926,TU879,Technological University Dublin
+927,TU880,Technological University Dublin
+928,TU881,Technological University Dublin
+929,TU882,Technological University Dublin
+930,TU901,Technological University Dublin
+931,TU902,Technological University Dublin
+932,TU903,Technological University Dublin
+933,TU904,Technological University Dublin
+934,TU905,Technological University Dublin
+935,TU906,Technological University Dublin
+936,TU907,Technological University Dublin
+937,TU908,Technological University Dublin
+938,TU909,Technological University Dublin
+939,TU910,Technological University Dublin
+940,TU911,Technological University Dublin
+941,TU912,Technological University Dublin
+942,TU913,Technological University Dublin
+943,TU914,Technological University Dublin
+944,TU915,Technological University Dublin
+945,TU916,Technological University Dublin
+946,TU917,Technological University Dublin
+947,TU918,Technological University Dublin
+948,TU919,Technological University Dublin
+949,TU920,Technological University Dublin
+950,TU921,Technological University Dublin
+951,TU922,Technological University Dublin
+952,TU923,Technological University Dublin
+953,TU924,Technological University Dublin
+954,TU925,Technological University Dublin
+955,TU935,Technological University Dublin
+956,TU936,Technological University Dublin
+957,TU941,Technological University Dublin
+958,TU942,Technological University Dublin
+959,TU943,Technological University Dublin
+960,TU944,Technological University Dublin
+961,TU951,Technological University Dublin
+962,TU952,Technological University Dublin
+963,TU953,Technological University Dublin
+964,TU954,Technological University Dublin
+965,TU955,Technological University Dublin
+966,TU961,Technological University Dublin
+967,TU962,Technological University Dublin
+968,TU963,Technological University Dublin
+969,TU965,Technological University Dublin
+970,TU966,Technological University Dublin
+971,TU967,Technological University Dublin
+972,TU971,Technological University Dublin
+973,TU972,Technological University Dublin
+974,TU973,Technological University Dublin
+975,TU974,Technological University Dublin
+976,TU975,Technological University Dublin
+977,TU976,Technological University Dublin
+978,TU981,Technological University Dublin
+979,TU982,Technological University Dublin
+980,TU983,Technological University Dublin
+981,TU984,Technological University Dublin
+982,TU985,Technological University Dublin
+983,TU986,Technological University Dublin
+984,TU991,Technological University Dublin
+985,TU992,Technological University Dublin
+986,TU993,Technological University Dublin
+987,TU994,Technological University Dublin
+988,TU995,Technological University Dublin
+989,TU996,Technological University Dublin
+990,TU997,Technological University Dublin
+991,WD001,Waterford Institute of Technology
+992,WD002,Waterford Institute of Technology
+993,WD005,Waterford Institute of Technology
+994,WD006,Waterford Institute of Technology
+995,WD007,Waterford Institute of Technology
+996,WD025,Waterford Institute of Technology
+997,WD027,Waterford Institute of Technology
+998,WD048,Waterford Institute of Technology
+999,WD084,Waterford Institute of Technology
+1000,WD091,Waterford Institute of Technology
+1001,WD116,Waterford Institute of Technology
+1002,WD117,Waterford Institute of Technology
+1003,WD120,Waterford Institute of Technology
+1004,WD134,Waterford Institute of Technology
+1005,WD137,Waterford Institute of Technology
+1006,WD140,Waterford Institute of Technology
+1007,WD144,Waterford Institute of Technology
+1008,WD147,Waterford Institute of Technology
+1009,WD149,Waterford Institute of Technology
+1010,WD150,Waterford Institute of Technology
+1011,WD152,Waterford Institute of Technology
+1012,WD161,Waterford Institute of Technology
+1013,WD162,Waterford Institute of Technology
+1014,WD163,Waterford Institute of Technology
+1015,WD186,Waterford Institute of Technology
+1016,WD187,Waterford Institute of Technology
+1017,WD191,Waterford Institute of Technology
+1018,WD192,Waterford Institute of Technology
+1019,WD193,Waterford Institute of Technology
+1020,WD194,Waterford Institute of Technology
+1021,WD195,Waterford Institute of Technology
+1022,WD200,Waterford Institute of Technology
+1023,WD210,Waterford Institute of Technology
+1024,WD211,Waterford Institute of Technology
+1025,WD212,Waterford Institute of Technology
+1026,WD230,Waterford Institute of Technology
